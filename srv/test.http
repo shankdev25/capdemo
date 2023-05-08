@@ -1,0 +1,8 @@
+POST  https://port4004-workspaces-ws-j4cq6.us10.trial.applicationstudio.cloud.sap/catalog/teams
+Content-Type: application/json;
+
+{
+    "ID" : "e91503d5-25ad-4626-92d9-83368ae604d0",
+    "name" : "Shashank",
+    "leader" : "xyz"
+}
